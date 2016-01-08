@@ -12,7 +12,7 @@ rails s -b 0.0.0.0
 Heroku username/pw in MAC notes
 Harleigh signup p is password
 
-
+tt
 this is some ruby code `puts 'Hello Newman'`
 
 
